@@ -6,7 +6,7 @@
 #include <DNSServer.h>           // https://github.com/esp8266/Arduino/tree/master/libraries/DNSServer
 #include <WiFiManager.h>         // https://github.com/tzapu/WiFiManager
 #include <ArduinoJson.h>         // https://github.com/bblanchon/ArduinoJson
-#include <SimpleDHT.h>
+#include <SimpleDHT.h>           // https://github.com/winlinvip/SimpleDHT
 
 #define MOTION_PIN 14
 #define DHT11_PIN 12
